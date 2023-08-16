@@ -1,0 +1,2 @@
+# Mnist_dataset_with_three_three_archeitecture
+Implementing the mnist dataset with three different architecture
